@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AugPor
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in mobile application and framework development.
 - 📫 You can contact me through my LinkedIn https://www.linkedin.com/in/augusto-h-hamaguchi-porto-00143a209
 
 <!---
